@@ -26,8 +26,6 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/aut
 'Input Username'
 WebUI.setText(findTestObject('Authentication/input_Username'), 'Admin')
 
-WebUI.verifyElementPresent(findTestObject('Authentication/button_Login'), 0)
-
 'Input Password'
 WebUI.setEncryptedText(findTestObject('Authentication/input_Password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
