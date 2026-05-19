@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to kredensial valid/succes</description>
+   <name>Positive - Login Kredensial Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da35562f-c9a9-4d47-b0f3-57965f3f6529</testCaseGuid>
+</TestCaseEntity>
